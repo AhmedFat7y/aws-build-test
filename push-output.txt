@@ -1,0 +1,39 @@
+$AWS_DEFAULT_REGION
+	us-east-1
+$AWS_REGION
+	us-east-1
+$CODEBUILD_BUILD_ARN
+	arn:aws:codebuild:us-east-1:728885536283:build/reference-build:052f8e9d-f4ff-4959-bd1d-ca6ec0bcc85c
+$CODEBUILD_BUILD_ID
+	reference-build:052f8e9d-f4ff-4959-bd1d-ca6ec0bcc85c
+$CODEBUILD_BUILD_IMAGE
+	aws/codebuild/nodejs:8.11.0-1.6.0
+$CODEBUILD_BUILD_SUCCEEDING
+	1
+$CODEBUILD_INITIATOR
+	GitHub-Hookshot/903858c
+$CODEBUILD_KMS_KEY_ID
+	arn:aws:kms:us-east-1:728885536283:alias/aws/s3
+$CODEBUILD_LOG_PATH
+	052f8e9d-f4ff-4959-bd1d-ca6ec0bcc85c
+$CODEBUILD_RESOLVED_SOURCE_VERSION
+	d9cc362ee1238071e1dd0ffd1ac04afcd68bc2c6
+$CODEBUILD_SOURCE_REPO_URL
+	https://github.com/AhmedFat7y/aws-build-test.git
+$CODEBUILD_SOURCE_VERSION
+	d9cc362ee1238071e1dd0ffd1ac04afcd68bc2c6
+$CODEBUILD_SRC_DIR
+	/codebuild/output/src775956646/src/github.com/AhmedFat7y/aws-build-test
+$CODEBUILD_START_TIME
+	1553991362558
+$CODEBUILD_WEBHOOK_ACTOR_ACCOUNT_ID
+	962252
+$CODEBUILD_WEBHOOK_BASE_REF
+	$CODEBUILD_WEBHOOK_EVENT
+	PUSH
+$CODEBUILD_WEBHOOK_HEAD_REF
+	refs/heads/release-2
+$CODEBUILD_WEBHOOK_TRIGGER
+	branch/release-2
+$HOME
+	/root
